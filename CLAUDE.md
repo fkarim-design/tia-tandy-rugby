@@ -57,6 +57,10 @@ it, and gets a card only at the top of `match-reviews.html` (class
 happened, never written as Tia's words. The only script, `tools/build_pack_partners_page.py`,
 rebuilds the Numbers and Current
 Partners pages of the partnership-pack PDF and splices them back in.
+The contact email, tiatandyrugby@gmail.com, lives in three places: the
+enquiry button on `sponsors.html`, the one on `v2/index.html`, and the
+pack's contact page (page 7), which no script rebuilds, so a change of
+address means editing that page of the PDF in place.
 
 ## Deployment
 
