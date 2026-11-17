@@ -17,13 +17,14 @@ versions are maintained, with no links between them:
   "Fixture details coming soon"; the full list is written out on
   `fixtures.html`, so a fixture change means updating both.
   `fixtures.html` opens with the league table, copied by hand from
-  the standings the owner sends: rows in the order given, with no
-  position numbers, the T-Birds row marked `class="us"`, the
+  the standings the owner sends: rows in the order given and columns
+  as they carry them, with no position numbers, the T-Birds row
+  marked `class="us"`, the
   "after …" date line under the heading moved on with each update,
   any note the standings carry (such as a points deduction) kept in
   the box beneath the table, and the line under that kept true to
   how the standings count points (as sent: four a win, two a draw,
-  no bonus points).
+  plus bonus points).
 - **The one-pager** — the original navy/chalk/red match-programme
   page, unlisted at `/v2/` (`public/v2/index.html`) by owner
   instruction. Keep its facts in step, condensed to suit the
