@@ -45,7 +45,10 @@ top of `match-reviews.html` and a sitemap entry, with its clip in
 well to the card's 16:10 thumbnail, a trimmed `-thumb` copy beside it.
 Its chips carry the result and anything notable on the day (a try, an
 award) but never her position: she always plays hooker, so it goes
-without saying. A fixture the T-Birds concede keeps its row on
+without saying. A review written about Tia rather than by her is
+published word for word but framed as a performance review: its hero
+eyebrow reads "Performance Review" instead of "In Her Own Words", and
+its card teaser carries no quotation marks. A fixture the T-Birds concede keeps its row on
 `fixtures.html` with "Conceded" in place of the kick-off, is marked
 `"conceded": true` in the homepage list so the Next Match band skips
 it, and gets a card only at the top of `match-reviews.html` (class
